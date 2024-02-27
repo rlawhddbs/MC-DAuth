@@ -3,4 +3,4 @@ pluginManagement {
         id 'org.jetbrains.kotlin.jvm' version '2.0.0-Beta4'
     }
 }
-rootProject.name = 'DAuthPlugin'
+rootProject.name = 'DAuth'
