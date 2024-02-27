@@ -19,9 +19,6 @@ repositories {
 dependencies {
     compileOnly("org.spigotmc:spigot-api:1.19.4-R0.1-SNAPSHOT")
     implementation("net.wesjd:anvilgui:1.9.2-SNAPSHOT") // Anvil GUI
-
-    compileOnly("org.projectlombok:lombok:1.18.28") // lombok (설치하기 싫었는데 ㅠㅠ)
-    annotationProcessor("org.projectlombok:lombok:1.18.28")
 }
 
 tasks.shadowJar {
